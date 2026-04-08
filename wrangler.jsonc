@@ -7,16 +7,6 @@
   "observability": {
     "enabled": true,
   },
-  "routes": [
-    {
-      "pattern": "app.openseo.so",
-      "custom_domain": true,
-    },
-    {
-      "pattern": "www.app.openseo.so",
-      "custom_domain": true,
-    },
-  ],
   "workflows": [
     {
       "name": "site-audit-workflow",
